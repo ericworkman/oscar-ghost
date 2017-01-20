@@ -25,7 +25,7 @@ body {
 }
 
 html {
-  font-family: 'OpenSans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -313,7 +313,7 @@ a.read-more:hover{
 
 .pagination {
   overflow: hidden; /* clearfix */
-  font-family: 'OpenSans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
   width: 100%;
