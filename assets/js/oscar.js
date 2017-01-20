@@ -1,5 +1,5 @@
 let oscar = {
-    animatedNav: true,
+    animatedNav: false,
     tagMenu: true,
     tagKey: '#tagnav',
     requirePosts: false
